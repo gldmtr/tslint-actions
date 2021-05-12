@@ -1,6 +1,6 @@
 {
   "name": "tslint-action",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Lint typescript with annotations support",
   "main": "dist/main.js",

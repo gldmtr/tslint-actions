@@ -23,7 +23,7 @@
   "author": "gldmtr",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "common-tags": "^1.8.0",
     "glob": "^7.1.6",
